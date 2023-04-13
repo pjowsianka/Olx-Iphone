@@ -1,4 +1,4 @@
-# Analiza danych sprzedaży iPhone na OLX
+# Analiza sprzedaży telefonu iPhone na OLX
 W tym repozytorium znajdują się pliki związane z analizą danych sprzedaży telefonów iPhone na serwisie OLX. Analiza została przeprowadzona przy użyciu języka Python i narzędzi takich jak Pandas, Matplotlib i Seaborn.
 
 ## Struktura repozytorium
